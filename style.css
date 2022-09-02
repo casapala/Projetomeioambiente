@@ -1,0 +1,104 @@
+
+body{
+  background-color: #3AFEFF;
+  text-align: center;
+}
+em {
+    color: blue;
+}
+
+  #colégioestadual{
+    width:40%;
+    border: 10px solid #990000;
+    height: 200px;
+    margin-right: 30px;
+    padding: 5px;
+  }
+
+  #ReformaEscolaMunicipal{
+    width:40%;
+    border: 10px solid #990000;
+    height: 200px;
+    padding: 5px;
+  }
+  #assembleia{
+    width:25%;
+    border: 10px solid #990000;
+    height: 200px;
+    padding: 5px;
+  }
+  #catolica{
+    width:25%;
+    border: 10px solid #990000;
+    height: 200px;
+    padding: 5px;
+  }
+  #crista{
+    width:25%;
+    border: 10px solid #990000;
+    height: 200px;
+    padding: 5px;
+  }
+  #reforma{
+    width:25%;
+    border: 10px solid #990000;
+    height: 200px;
+    padding: 5px;
+  }
+  #reforma1{
+    width:25%;
+    border: 10px solid #990000;
+    height: 200px;
+    padding: 5px;
+  }
+  #reforma2{
+    width:25%;
+    border: 10px solid #990000;
+    height: 200px;
+    padding: 5px;
+  }
+  #posto{
+    width:50%;
+    border: 10px solid #990000;
+    height: 400px;
+    padding: 5px;
+  }
+  #campo{
+    width:45%;
+    border: 10px solid #990000;
+    height: 400px;
+    padding: 5px;
+  }
+  #campo 2{
+    width:45%;
+    border: 10px solid #990000;
+    height: 400px;
+    padding: 5px;
+  }
+  #parquinho{
+    width:45%;
+    border: 10px solid #990000;
+    height: 400px;
+    padding: 5px;
+  }
+  #quadradeareia{
+    width:45%;
+    border: 10px solid #990000;
+    height: 400px;
+    padding: 5px;
+  }
+  #ginastica{
+    width:45%;
+    border: 10px solid #990000;
+    height: 400px;
+    padding: 5px;
+  }
+  #ginastica2{
+    width:45%;
+    border: 10px solid #990000;
+    height: 400px;
+    padding: 5px;
+  }
+  body{
+    p: font-size: 20px
+  }
